@@ -1,0 +1,28 @@
+{
+  "labels_and_samples": [
+    {
+      "labels": "0",
+      "num_samples_per_label": 25080.0
+    },
+    {
+      "labels": "1",
+      "num_samples_per_label": 22990.0
+    },
+    {
+      "labels": "2",
+      "num_samples_per_label": 4630.0
+    },
+    {
+      "labels": "3",
+      "num_samples_per_label": 22720.0
+    },
+    {
+      "labels": "4",
+      "num_samples_per_label": 45000.0
+    },
+    {
+      "labels": "5",
+      "num_samples_per_label": 23280.0
+    }
+  ]
+}
